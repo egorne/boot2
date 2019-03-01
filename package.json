@@ -1,0 +1,22 @@
+{
+  "name": "boot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorne/boot2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorne/boot2/issues"
+  },
+  "homepage": "https://github.com/egorne/boot2#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
